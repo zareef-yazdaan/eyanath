@@ -1,0 +1,36 @@
+.eyani{
+    height: 500px;
+    width: 400px;
+    transform: rotateY(180deg);
+    float: right;
+}
+
+body{
+    background-color: pink;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    background-color: bisque;
+}
+
+.meow{
+    float: center;
+    text-align: center;
+}
+
+.meuuu{
+    height: 500px;
+    width: 400px;
+}
+
+#hello{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
